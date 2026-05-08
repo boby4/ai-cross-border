@@ -16,15 +16,15 @@
 
 ### AI 生成（首页）
 
-![AI生成首页](screenshots/home.png)
+![AI生成首页](https://i.mji.rip/2026/05/08/aa98d5cf19ba6a2b51006ab4e86d4030.png)
 
 ### 批量生成
 
-![批量生成](screenshots/batch.png)
+![批量生成](https://i.mji.rip/2026/05/08/adc0db2e0463340d9d5c52e7915750a4.png)
 
 ### 历史记录
 
-![历史记录](screenshots/history.png)
+![历史记录](https://i.mji.rip/2026/05/08/894cffd9d4a659ce66857aaead418f49.png)
 
 > 截图路径为 `screenshots/` 目录。你需要手动截取三个页面的截图，分别命名为 `home.png`、`batch.png`、`history.png` 放入该目录即可。
 
