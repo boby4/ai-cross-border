@@ -12,6 +12,22 @@
 - **Excel 导入导出** — 支持 xlsx/xls 格式的导入和导出
 - **历史记录** — 基于 localStorage 自动保存，支持查看、复制、重新生成和删除
 
+## 项目截图
+
+### AI 生成（首页）
+
+![AI生成首页](screenshots/home.png)
+
+### 批量生成
+
+![批量生成](screenshots/batch.png)
+
+### 历史记录
+
+![历史记录](screenshots/history.png)
+
+> 截图路径为 `screenshots/` 目录。你需要手动截取三个页面的截图，分别命名为 `home.png`、`batch.png`、`history.png` 放入该目录即可。
+
 ## 技术栈
 
 | 技术 | 说明 |
